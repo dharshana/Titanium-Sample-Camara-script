@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>lk.openarc.samplecam</id>
+    <id>com.geewantha.samplecam</id>
     <name>Open GUI</name>
     <version>1.0</version>
     <publisher>dharshana</publisher>
-    <url>http://openarc.lk/samplecam</url>
+    <url>http://geewantha.lk/samplecam</url>
     <description>not specified</description>
-    <copyright>2013 by dharshana</copyright>
+    <copyright>2014 by dharshana</copyright>
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
