@@ -1,7 +1,7 @@
 Titanium Camara script
 =============================
 
-Sample Titanium Script to pop up your camera and take a photograph
+Sample Titanium Script to pop up your camera and take a photograph<br/>
 Script work for both Android and iOS devices
 
 Application Type : mobile<br/>
@@ -15,7 +15,8 @@ Devices: iOS simulator, Android emulator or physical devices<br/>
 Operating System : Win, Linux, Mac<br/>
 
 
-Tested Envoinment<br/>
+Tested Envoinment
+----------------
 Android 2.3.3 (API 10)<br/>
 Android 3.0 (API 11)<br/>
 Android 4.0 (API 14)<br/>
