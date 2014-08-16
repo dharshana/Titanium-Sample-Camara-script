@@ -6,7 +6,8 @@ Script work for both Android and iOS devices
 
 
 requirements
-Titanium SDK 3.X / 2.X
+-------------
+Titanium SDK 3.X / 2.X<br/>
 Titanium Studio
 Android SDK 2.3+
 Android Simiulator
